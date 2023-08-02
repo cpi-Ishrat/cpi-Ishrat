@@ -25,7 +25,6 @@ With 11+ years of experience , I have demonstrated a strong ability to design, d
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Cypress" src="https://img.shields.io/badge/-cypress-17202C?style=flat-square&logo=Cypress&logoColor=white" />
   <img alt="Microsoft Dynamics" src="https://img.shields.io/badge/CRM-Dynamics-17202C?style=flat-square&logo=CRM-Dynamics&logoColor=white" />
 </p>
 
@@ -38,5 +37,5 @@ With 11+ years of experience , I have demonstrated a strong ability to design, d
 <h3>Interests</h3>
 
 - 🛠 &nbsp; I’m currently working with Angular, TypeScript and Azure.
-- 🌱 &nbsp; I’m currently learning AWS.
+- 🌱 &nbsp; I’m currently learning AWS, Cloud
 - 👾 &nbsp; Fun fact: I love Trek's and travelling 
