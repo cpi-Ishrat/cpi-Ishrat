@@ -37,5 +37,5 @@ With 11+ years of experience , I have demonstrated a strong ability to design, d
 <h3>Interests</h3>
 
 - 🛠 &nbsp; I’m currently working with Angular, TypeScript and Azure.
-- 🌱 &nbsp; I’m currently learning AI and sustainability with technologgy
-- 👾 &nbsp; Fun fact: I love Trek's and travelling 
+- 🌱 &nbsp; I’m currently learning AI and sustainability with technology
+- 👾 &nbsp; I love Trek's and travelling 
